@@ -1,4 +1,5 @@
-const assert = require('assert');
+const assert = require('node:assert');   
+
 
 describe('Component Tests', () => {
   describe('PasswordComponent', () => {
